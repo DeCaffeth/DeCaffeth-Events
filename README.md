@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6159ee8-1b75-4894-b598-96abf3f98507" alt="decaffeth-logo-wb" width="1383" height="400"/>
+  <img src="decaffeth-logo-wb.png" alt="decaffeth-logo-wb" width="1383" height="400"/>
 </p>
+
 # ☕️ DeCaffeth – A Shared Cup of Thought in a Decentralized World
 
 Empowering Web3 Builders Community
@@ -75,7 +76,7 @@ We’ve hosted events across multiple cities in Iran including Tehran, Isfahan, 
 - 🐦 **[X / Twitter](https://x.com/decaffeth)**
 - 📷 **[Instagram](https://instagram.com/decaffeth)**
 - 💼 **[LinkedIn](https://linkedin.com/company/decaffeth)**
-- 📻 **[Youtube](https://youtube.com/@decaffeth)**
+- 📺 **[Youtube](https://youtube.com/@decaffeth)**
 - 🕹️ **[Discord](https://discord.gg/KzNQxyqh5t)**
 
 ---
