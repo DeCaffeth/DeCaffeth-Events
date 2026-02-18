@@ -1,19 +1,24 @@
-# ☕️ DeCaff.eth – Empowering Web3 Builders Community
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6159ee8-1b75-4894-b598-96abf3f98507" alt="decaffeth-logo-wb" width="1383" height="400"/>
+</p>
+# ☕️ DeCaffeth – A Shared Cup of Thought in a Decentralized World
 
-Welcome to **DeCaff.eth**, where developers, builders, and curious minds come together to **explore, learn, and grow in the world of Web3 and blockchain technologies**.
+Empowering Web3 Builders Community
+
+Welcome to **DeCaffeth**, where curious minds in Web3 and emerging technologies gather to **connect, explore, learn, build and grow**.
 
 ---
 
 ## 🌱 About Us
 
-DeCaff.eth is a grassroots initiative and growing community, focused on supporting **Web3 developers, researchers, and enthusiasts** through high-quality **events, networking, and knowledge sharing**.
+DeCaffeth is a community-driven initiative and conversation hub for the decentralized era. Where ideas flow freely between developers, designers, founders, researchers, builders shaping the future of technology.
+We host volunteer-led events to bring diverse minds together, who care about meaningful conversations, technical depth, and collaboration. Come to just be part of something meaningful ✨
 
-We organize:
-
-- 🧠 **Tech Meetups** on advanced blockchain topics  
-- 🛠 **Hands-on Workshops** to explore tools, protocols, and dev stacks  
-- 💬 **Community Discussions** for sharing insights and experience  
-- 🌍 **Networking spaces** to connect talents, projects, and global opportunities  
+We Host:
+- 🧠 **Tech In-Person Meetups** on advanced blockchain topics in each city
+- 🛠 **Hands-on Workshops** to explore tools, protocols, and dev stacks
+- 💬 **Virtual Community Discussions** for sharing insights and experience
+- 🌍 **Networking spaces** to connect talents, projects, and global opportunities
 
 ---
 
@@ -33,18 +38,20 @@ Whether you’re a developer, designer, founder, marketer, business man, researc
 
 ## 💬 Inside the Community
 
-Our Telegram group includes curated discussion threads like:
+Our Telegram group includes curated threads like:
 
-- 📢 **Job Opportunities**: Get hired or hire talents in Web3  
-- 🧪 **Hackathons, Grants & Scholarships**: Discover and share funding & learning opportunities  
-- 🧩 **Project Discussions**: Present your idea, get feedback, and find collaborators  
-- 🎤 **Events & Meetups**: Stay updated with our upcoming gatherings  
+- 📢 **Job Opportunities**: Get hired or hire talents in Web3
+- 🧪 **Hackathons, Prizes & Scholarships**: Discover and share funding & learning opportunities
+- 🧩 **Project Showcase**: Present your idea, get feedback, and find collaborators
+- 📜 **Papers & Articles**: Share papers you have read and your insights
+- 🎤 **Events & Announcements**: Stay updated with our upcoming gatherings
+- 🔗 **Resources**: Find resources related to events
 
 ---
 
 ## 📍 Past Events
 
-We’ve hosted meetups across multiple cities in Iran including Tehran, Isfahan, and Mashhad, covering topics such as:
+We’ve hosted events across multiple cities in Iran including Tehran, Isfahan, Mashhad & Tabriz, covering topics such as:
 
 - Exploring DEVCON and DEVCONNECT Opportunites
 - Career Paths in Web3 and Security Auditor Path
@@ -53,6 +60,7 @@ We’ve hosted meetups across multiple cities in Iran including Tehran, Isfahan,
 - AI x Blockchain; Intersections and new Tools
 - Launching a Startup in Web3
 - Building on Bitcoin & BitVM
+- Business & Marketing in Web3 Projects
 …and much more.
 
 📁 You’ll find each event documented in this repository.
@@ -61,11 +69,14 @@ We’ve hosted meetups across multiple cities in Iran including Tehran, Isfahan,
 
 ## 🌐 Connect With Us
 
-- 💬 **[Telegram Group](https://t.me/decaffeth_community)**  
-- 📢 **[Telegram Channel](https://t.me/decaffeth)**  
-- 🐦 **[X / Twitter](https://x.com/decaffeth)**  
-- 📷 **[Instagram](https://instagram.com/decaffeth)**  
-- 🌍 **Website:** Coming soon  
+- 🌍 **[Website](https://DeCaffeth.com)**
+- 💬 **[Telegram Group](https://t.me/decaffeth_community)**
+- 📢 **[Telegram Channel](https://t.me/decaffeth)**
+- 🐦 **[X / Twitter](https://x.com/decaffeth)**
+- 📷 **[Instagram](https://instagram.com/decaffeth)**
+- 💼 **[LinkedIn](https://linkedin.com/company/decaffeth)**
+- 📻 **[Youtube](https://youtube.com/@decaffeth)**
+- 🕹️ **[Discord](https://discord.gg/KzNQxyqh5t)**
 
 ---
 
