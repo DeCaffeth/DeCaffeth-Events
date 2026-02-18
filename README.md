@@ -2,9 +2,8 @@
   <img src="Assets/decaffeth-logo-wb.png" alt="decaffeth-logo-wb" width="1383" height="400"/>
 </p>
 
-# ☕️ DeCaffeth – A Shared Cup of Thought in a Decentralized World
-
-Empowering Web3 Builders Community
+# ☕️ DeCaffeth - Empowering Web3 Builders Community
+**A Shared Cup of Thought in a Decentralized World**
 
 Welcome to **DeCaffeth**, where curious minds in Web3 and emerging technologies gather to **connect, explore, learn, build and grow**.
 
