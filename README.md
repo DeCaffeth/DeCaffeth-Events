@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="decaffeth-logo-wb.png" alt="decaffeth-logo-wb" width="1383" height="400"/>
+  <img src="Assets/decaffeth-logo-wb.png" alt="decaffeth-logo-wb" width="1383" height="400"/>
 </p>
 
 # ☕️ DeCaffeth – A Shared Cup of Thought in a Decentralized World
